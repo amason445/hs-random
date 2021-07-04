@@ -1,2 +1,2 @@
 # Haskell-Utilities
-Utilities Created or Sourced
+Haskell Utilities Created or Sourced from Various Locations
