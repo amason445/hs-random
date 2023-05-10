@@ -1,2 +1,2 @@
-# Haskell-Utilities
-Haskell Utilities Created or Sourced from Various Locations
+# Haskell
+Random Haskell tinkering
